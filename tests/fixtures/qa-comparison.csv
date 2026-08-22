@@ -1,0 +1,8 @@
+顧客ID,氏名,メール,部署,契約金額
+C001,青木 葵,aoki@example.jp,営業,120000
+C003,上田 凛,ueda-new@example.jp,事業開発,165000
+C004,遠藤 澪,endo@example.jp,管理,110000
+C006,加藤 碧,kato@example.jp,企画,105000
+C007,木村 凪,kimura-a@example.jp,営業,125000
+C007,木村 凪,kimura-b@example.jp,営業,125000
+,鍵なし顧客2,no-key-2@example.jp,管理,95000

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="2つの表を照合するアイコン">
+  <rect width="64" height="64" rx="15" fill="#123f46"/>
+  <rect x="8" y="13" width="20" height="30" rx="4" fill="#f8fbf8"/>
+  <path d="M8 21h20M8 29h20M15 13v30" stroke="#9cb6b4" stroke-width="2"/>
+  <rect x="36" y="21" width="20" height="30" rx="4" fill="#f8fbf8"/>
+  <path d="M36 29h20M36 37h20M43 21v30" stroke="#9cb6b4" stroke-width="2"/>
+  <path d="M26 18h12l-3-3m3 3-3 3M38 46H26l3 3m-3-3 3-3" fill="none" stroke="#f6c453" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m45 39 3 3 6-7" fill="none" stroke="#16866f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
