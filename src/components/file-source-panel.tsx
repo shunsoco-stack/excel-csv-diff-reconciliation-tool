@@ -215,7 +215,7 @@ export function FileSourcePanel({
         </button>
         <p id={privacyId} className="drop-zone__privacy-note">
           <LockKeyhole size={14} aria-hidden="true" />
-          ファイルはブラウザ内で処理され、サーバーへ送信されません
+          ファイルはブラウザ内で処理し、外部サーバーへ送信することはありません。本番ページ末尾の広告配信（忍者AdMax）は、ファイル内容とは無関係です
         </p>
       </div>
 
