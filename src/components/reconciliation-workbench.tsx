@@ -707,7 +707,7 @@ export function ReconciliationWorkbench() {
             </div>
             <div>
               <span>YOUR DATA STAYS HERE</span>
-              <strong>ファイルはブラウザの外へ出ません</strong>
+              <strong>照合に使うファイルの内容はブラウザの外へ出ません。本番ページ末尾の広告配信（忍者AdMax）は、ファイル内容とは無関係です</strong>
               <p>解析・正規化・照合・レポート作成まで端末内で完結。入力内容は保存しません。</p>
             </div>
             <dl>

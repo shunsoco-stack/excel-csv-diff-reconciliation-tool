@@ -94,7 +94,7 @@ describe("FileSourcePanel", () => {
     expect(input).not.toHaveAttribute("multiple");
     expect(input).toHaveAttribute("accept", expect.stringContaining(".csv,.xlsx"));
     expect(
-      screen.getByText("ファイルはブラウザ内で処理され、サーバーへ送信されません"),
+      screen.getByText(/ファイルはブラウザ内で処理し、外部サーバーへ送信することはありません/),
     ).toBeInTheDocument();
     expect(screen.getByText("比較するファイルを追加してください")).toBeInTheDocument();
   });

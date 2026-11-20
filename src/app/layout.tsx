@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
 import "./globals.css";
+import { LegalFooter } from "@/components/legal-footer";
 
 export const metadata: Metadata = {
   title: "Excel・CSV差分比較・データ照合ツール",
@@ -26,7 +27,8 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="ja">
-      <body>{children}</body>
+      <body>{children}
+        <LegalFooter /></body>
     </html>
   );
 }
